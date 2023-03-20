@@ -1,0 +1,18 @@
+total 64
+drwxrwxr-x 2 uwe uwe 4096 Mar 20 00:39 .
+drwxrwxr-x 6 uwe uwe 4096 Mar 19 22:32 ..
+-rwxrw-r-- 1 uwe uwe   32 Mar 19 22:24 0-hello_world
+-rwxrw-r-- 1 uwe uwe   28 Mar 19 22:31 1-confused_smiley
+-rwxrw-r-- 1 uwe uwe   28 Mar 19 22:33 2-hellofile
+-rwxrw-r-- 1 uwe uwe   39 Mar 19 22:36 3-twofiles
+-rwxrw-r-- 1 uwe uwe   29 Mar 19 22:40 4-lastlines
+-rwxrw-r-- 1 uwe uwe   28 Mar 19 22:38 4-lastlines~
+-rwxrw-r-- 1 uwe uwe   29 Mar 19 22:42 5-firstlines
+-rwxrw-r-- 1 uwe uwe   40 Mar 20 00:08 6-third_line
+-rwxrw-r-- 1 uwe uwe   29 Mar 19 22:54 6-third_line~
+-rwxrw-r-- 1 uwe uwe   97 Mar 20 00:38 7-file
+-rw-rw-r-- 1 uwe uwe  727 Mar 19 23:37 iacta
+-rw-rw-r-- 1 uwe uwe    0 Mar 20 00:39 ls_cwd_content
+-rw-rw-r-- 1 uwe uwe  107 Mar 19 23:33 README.md
+-rw-rw-r-- 1 uwe uwe   72 Mar 19 22:50 README.md~
+-rw-rw-r-- 1 uwe uwe   93 Mar 19 22:52 tail
