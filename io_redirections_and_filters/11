@@ -1,2 +1,0 @@
-#!/bin/bash
-ls -AR --file-type | grep "/" | wc -l
