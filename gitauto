@@ -1,0 +1,12 @@
+#!/bin/bash
+read -p "Enter commit message : " text
+if [ -e $1 ]
+then
+	git add "$1"
+	git commit -m  "$text"
+	git push ;
+else
+echo "no arguments entered "
+echo "syntax = ./gitauto {filename}"
+echo "example usage ./gitauto README.md" ;
+fi
